@@ -1,0 +1,9 @@
+Bug Report for: AUTO PCA PLOTTER (Shiny) v.2 (05/08/2017)
+
+Pending:
+- Emphasized population has no legend (Pavel)
+- Shiny re-plots and lags multiple times while typing the title (Pavel) #[A delayed observer may solve this]
+- Zooming in and brushing a region shows the wrong Points Info (Pavel)
+
+Solved:
+- Categories with <NA> values mess up the legend (Pavel) #[Now NA values plots grey]
